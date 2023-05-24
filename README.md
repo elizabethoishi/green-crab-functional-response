@@ -1,2 +1,2 @@
 # green-crab-functional-response
-European green crab functional response experiment with two prey species and two substrate treatments
+This repository contains the associated code, output, and figures for our study investigating functional responses of European green crabs (Carcinus maenas) and the potential impact of external complexity through the addition of substrate on their consumption of two invasive prey species: varnish clams (Nuttallia obscurata) and Japanese littleneck clams (Venerupis philippinarum). 
